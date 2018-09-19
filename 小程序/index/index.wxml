@@ -1,0 +1,2 @@
+<region-picker bind:change="addressChange"></region-picker>
+
